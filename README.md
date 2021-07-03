@@ -1,6 +1,4 @@
-# Amazon_Vine_Analysis
-
-# Overview of the analysis
+# Overview of the Study
 ## In this study we compare the Vine Program review and regular member reviews on the different model of cameras which is provided by Amazon website.
 ### What is Vine program?
 #### The Amazon Vine Program is a service that allows manufacturers and publishers to receive reviews for their products. Companies pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
@@ -28,17 +26,6 @@
 
 ![5_star_percentage](https://github.com/reza-ya57/Amazon_Vine_Analysis/blob/main/5_star_percent.png)
 
-
-
-
-For this part of the Challenge, you’ll write a report that summarizes the analysis you performed in Deliverable 2.
-
-The report should contain the following:
-
-Overview of the analysis: Explain the purpose of this analysis.
-
-Results: Using bulleted lists and images of DataFrames as support, address the following questions:
-
-Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
-
-In this project, you’ll have access to approximately 50 datasets. Each one contains reviews of a specific product, from clothing apparel to wireless products. You’ll need to pick one of these datasets and use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Next, you’ll use PySpark, Pandas, or SQL to determine if there is any bias toward favorable reviews from Vine members in your dataset. Then, you’ll write a summary of the analysis for Jennifer to submit to the
+## Summary
+### By looking at the difference of 5-star review percentage between vine program and none-vine program we can say there is almost 8% negative bias in vine program for 5-star rating.<br> It is note a big difference but vine program would be more accurate and it should be worth for company to use this program for getting more accurate feedback from the customer. <br>
+### By comparing the 1-star rating in both vine and none-vine program we can see more gap between these to program. The difference is about 10% so we can assume people in vine program write the review more accurate. 
