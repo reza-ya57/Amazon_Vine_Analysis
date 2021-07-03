@@ -26,6 +26,8 @@
 - Vine program: In vine program almost 42% of the reviews are 5-star
 - non-Vine program: In non-vine program almost 50% of the review are 5 star
 
+![5_star_percentage](https://github.com/reza-ya57/Amazon_Vine_Analysis/blob/main/5_star_percent.png)
+
 
 
 
