@@ -13,8 +13,15 @@
 ![total_review](https://github.com/reza-ya57/Amazon_Vine_Analysis/blob/main/total_review_paid_unpaid.png)
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 - Vine reviews: Totaly there were 246 reviews with 5-star rating in Vine program
+
+![5_star_vine_review](https://github.com/reza-ya57/Amazon_Vine_Analysis/blob/main/total_review_paid_5_star.png)
 - non-Vine reviews: Totaly there were 23816 reviews with 5-star rating in non-Vine program
+
+![5_star_non_vine_review](https://github.com/reza-ya57/Amazon_Vine_Analysis/blob/main/total_review_unpaid_5_star.png)
 - Also in case that you want to comare the other grade of reviews you can check below tables which are show the total number of review per each rating star for each Vine and non-Vine program.
+
+![total_review_per_star-paid](https://github.com/reza-ya57/Amazon_Vine_Analysis/blob/main/total_review_paid_per_star.png)
+![total_review_per_star-unpaid](https://github.com/reza-ya57/Amazon_Vine_Analysis/blob/main/total_review_unpaid_per_star.png)
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 - Vine program: In vine program almost 42% of the reviews are 5-star
 - non-Vine program: In non-vine program almost 50% of the review are 5 star
