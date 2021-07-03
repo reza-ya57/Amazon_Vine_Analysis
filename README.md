@@ -2,13 +2,15 @@
 
 # Overview of the analysis
 ## In this study we compare the Vine Program review and regular member reviews on the different model of cameras which is provided by Amazon website.
-# What is Vine program?
-## The Amazon Vine Program is a service that allows manufacturers and publishers to receive reviews for their products. Companies pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
+### What is Vine program?
+#### The Amazon Vine Program is a service that allows manufacturers and publishers to receive reviews for their products. Companies pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
 # Goal of this study
 ## Identify any positivity bias for reviews in the vine program. To cover this goal we are going to answer below question:
 ### How many Vine reviews and non-Vine reviews were there?
 - Vine reviews: There were 579 Vine reviews in total for this study
 - non_Vine reviews: There were 47521 non-Vine reviews in total for this study
+
+![total_vine_review]("")
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 - Vine reviews: Totaly there were 246 reviews with 5-star rating in Vine program
 - non-Vine reviews: Totaly there were 23816 reviews with 5-star rating in non-Vine program
