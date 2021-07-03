@@ -10,7 +10,7 @@
 - Vine reviews: There were 579 Vine reviews in total for this study
 - non_Vine reviews: There were 47521 non-Vine reviews in total for this study
 
-![total_vine_review]("")
+![total_review]("https://github.com/reza-ya57/Amazon_Vine_Analysis/blob/main/total_review_paid_unpaid.png")
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 - Vine reviews: Totaly there were 246 reviews with 5-star rating in Vine program
 - non-Vine reviews: Totaly there were 23816 reviews with 5-star rating in non-Vine program
